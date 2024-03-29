@@ -1,0 +1,14 @@
+C:\Users\manke\source\repos\inlab 1 simple calculator\inlab 1 simple calculator\bin\Debug\net8.0\inlab 1 simple calculator.exe
+C:\Users\manke\source\repos\inlab 1 simple calculator\inlab 1 simple calculator\bin\Debug\net8.0\inlab 1 simple calculator.deps.json
+C:\Users\manke\source\repos\inlab 1 simple calculator\inlab 1 simple calculator\bin\Debug\net8.0\inlab 1 simple calculator.runtimeconfig.json
+C:\Users\manke\source\repos\inlab 1 simple calculator\inlab 1 simple calculator\bin\Debug\net8.0\inlab 1 simple calculator.dll
+C:\Users\manke\source\repos\inlab 1 simple calculator\inlab 1 simple calculator\bin\Debug\net8.0\inlab 1 simple calculator.pdb
+C:\Users\manke\source\repos\inlab 1 simple calculator\inlab 1 simple calculator\obj\Debug\net8.0\inlab 1 simple calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manke\source\repos\inlab 1 simple calculator\inlab 1 simple calculator\obj\Debug\net8.0\inlab 1 simple calculator.AssemblyInfoInputs.cache
+C:\Users\manke\source\repos\inlab 1 simple calculator\inlab 1 simple calculator\obj\Debug\net8.0\inlab 1 simple calculator.AssemblyInfo.cs
+C:\Users\manke\source\repos\inlab 1 simple calculator\inlab 1 simple calculator\obj\Debug\net8.0\inlab 1 simple calculator.csproj.CoreCompileInputs.cache
+C:\Users\manke\source\repos\inlab 1 simple calculator\inlab 1 simple calculator\obj\Debug\net8.0\inlab 1 simple calculator.dll
+C:\Users\manke\source\repos\inlab 1 simple calculator\inlab 1 simple calculator\obj\Debug\net8.0\refint\inlab 1 simple calculator.dll
+C:\Users\manke\source\repos\inlab 1 simple calculator\inlab 1 simple calculator\obj\Debug\net8.0\inlab 1 simple calculator.pdb
+C:\Users\manke\source\repos\inlab 1 simple calculator\inlab 1 simple calculator\obj\Debug\net8.0\inlab 1 simple calculator.genruntimeconfig.cache
+C:\Users\manke\source\repos\inlab 1 simple calculator\inlab 1 simple calculator\obj\Debug\net8.0\ref\inlab 1 simple calculator.dll
