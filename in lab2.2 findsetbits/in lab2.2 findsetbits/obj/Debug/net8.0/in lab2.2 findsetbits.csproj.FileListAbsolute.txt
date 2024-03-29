@@ -1,0 +1,14 @@
+C:\Users\manke\source\repos\in lab2.2 findsetbits\in lab2.2 findsetbits\bin\Debug\net8.0\in lab2.2 findsetbits.exe
+C:\Users\manke\source\repos\in lab2.2 findsetbits\in lab2.2 findsetbits\bin\Debug\net8.0\in lab2.2 findsetbits.deps.json
+C:\Users\manke\source\repos\in lab2.2 findsetbits\in lab2.2 findsetbits\bin\Debug\net8.0\in lab2.2 findsetbits.runtimeconfig.json
+C:\Users\manke\source\repos\in lab2.2 findsetbits\in lab2.2 findsetbits\bin\Debug\net8.0\in lab2.2 findsetbits.dll
+C:\Users\manke\source\repos\in lab2.2 findsetbits\in lab2.2 findsetbits\bin\Debug\net8.0\in lab2.2 findsetbits.pdb
+C:\Users\manke\source\repos\in lab2.2 findsetbits\in lab2.2 findsetbits\obj\Debug\net8.0\in lab2.2 findsetbits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manke\source\repos\in lab2.2 findsetbits\in lab2.2 findsetbits\obj\Debug\net8.0\in lab2.2 findsetbits.AssemblyInfoInputs.cache
+C:\Users\manke\source\repos\in lab2.2 findsetbits\in lab2.2 findsetbits\obj\Debug\net8.0\in lab2.2 findsetbits.AssemblyInfo.cs
+C:\Users\manke\source\repos\in lab2.2 findsetbits\in lab2.2 findsetbits\obj\Debug\net8.0\in lab2.2 findsetbits.csproj.CoreCompileInputs.cache
+C:\Users\manke\source\repos\in lab2.2 findsetbits\in lab2.2 findsetbits\obj\Debug\net8.0\in lab2.2 findsetbits.dll
+C:\Users\manke\source\repos\in lab2.2 findsetbits\in lab2.2 findsetbits\obj\Debug\net8.0\refint\in lab2.2 findsetbits.dll
+C:\Users\manke\source\repos\in lab2.2 findsetbits\in lab2.2 findsetbits\obj\Debug\net8.0\in lab2.2 findsetbits.pdb
+C:\Users\manke\source\repos\in lab2.2 findsetbits\in lab2.2 findsetbits\obj\Debug\net8.0\in lab2.2 findsetbits.genruntimeconfig.cache
+C:\Users\manke\source\repos\in lab2.2 findsetbits\in lab2.2 findsetbits\obj\Debug\net8.0\ref\in lab2.2 findsetbits.dll

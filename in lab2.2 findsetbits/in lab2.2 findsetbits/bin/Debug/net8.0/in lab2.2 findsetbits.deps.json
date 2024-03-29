@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "in lab2.2 findsetbits/1.0.0": {
+        "runtime": {
+          "in lab2.2 findsetbits.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "in lab2.2 findsetbits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
