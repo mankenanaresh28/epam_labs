@@ -1,0 +1,14 @@
+C:\Users\manke\source\repos\lab3_task2\lab3_task2\obj\Debug\net8.0\lab3_task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manke\source\repos\lab3_task2\lab3_task2\obj\Debug\net8.0\lab3_task2.AssemblyInfoInputs.cache
+C:\Users\manke\source\repos\lab3_task2\lab3_task2\obj\Debug\net8.0\lab3_task2.AssemblyInfo.cs
+C:\Users\manke\source\repos\lab3_task2\lab3_task2\obj\Debug\net8.0\lab3_task2.csproj.CoreCompileInputs.cache
+C:\Users\manke\source\repos\lab3_task2\lab3_task2\bin\Debug\net8.0\lab3_task2.exe
+C:\Users\manke\source\repos\lab3_task2\lab3_task2\bin\Debug\net8.0\lab3_task2.deps.json
+C:\Users\manke\source\repos\lab3_task2\lab3_task2\bin\Debug\net8.0\lab3_task2.runtimeconfig.json
+C:\Users\manke\source\repos\lab3_task2\lab3_task2\bin\Debug\net8.0\lab3_task2.dll
+C:\Users\manke\source\repos\lab3_task2\lab3_task2\bin\Debug\net8.0\lab3_task2.pdb
+C:\Users\manke\source\repos\lab3_task2\lab3_task2\obj\Debug\net8.0\lab3_task2.dll
+C:\Users\manke\source\repos\lab3_task2\lab3_task2\obj\Debug\net8.0\refint\lab3_task2.dll
+C:\Users\manke\source\repos\lab3_task2\lab3_task2\obj\Debug\net8.0\lab3_task2.pdb
+C:\Users\manke\source\repos\lab3_task2\lab3_task2\obj\Debug\net8.0\lab3_task2.genruntimeconfig.cache
+C:\Users\manke\source\repos\lab3_task2\lab3_task2\obj\Debug\net8.0\ref\lab3_task2.dll
